@@ -24,7 +24,7 @@
 
 <h3 id="datasources">2.1. Data Sources<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#datasources" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
-<p>We will use the FourSquare API to collect data about locations of 1. Top 100 venues Toronto & NewYork and 2.Exploring each venue of Toronto City to find coffee shops near them </p>
+<p>We will use the FourSquare API to collect data about locations of 1. Top 100 venues Toronto & NewYork and 2.Exploring each neighborhood of Toronto City to find coffee shops venue near them </p>
 
 <h3 id="datacleaning">2.2. Data Cleaning<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#datacleaning" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
