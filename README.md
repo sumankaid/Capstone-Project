@@ -37,12 +37,22 @@
 <p>Plotting in map to density of current coffee shops, highest and lowest dense cluster.</p>
 
 <h2 id="methodology">3. Methodology<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#methodology" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-
-<h2 id="results">4. Results<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#results" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-
-<h2 id="discussion">5. Discussion:<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#discussion" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-
-<h2 id="conclusion">6. Conclusion:<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#conclusion" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+      <p> We have used following methodologies:
+            
+            1. BeautifulSoup function performing Web Scrapping from wikis.
+            2. Foursquare API call to retrieve data/venue details based on Latitude and Logitude or Address
+            3. Applying k-mean machine learning methodology to create 5 cluster
+            4. Applying Counter function to find higest value in a dictionary. 
+            5. Basic python to determine highest and lower coffee shop count in clusters
+            
+   
       
+<h2 id="results">4. Results<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#results" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+      <p>Plotting Recommended Cluster in Blue and least recommended Cluster in Red on Map
+      </p>
+<h2 id="discussion">5. Discussion:<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#discussion" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+      <p>Based on the above result we found in cluster red the number of coffee shops are high were as in cluster blue it is less. Based on the initial assessment opening a coffee shop in blue cluster we expect to return invested money quickly</p>
+<h2 id="conclusion">6. Conclusion:<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#conclusion" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+      <p>Based on the above analysis it have highlighted in the map in blue the best place to open coffee shop in city of Toronto.</p>  
     
 </body>
