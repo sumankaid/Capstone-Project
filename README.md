@@ -18,7 +18,7 @@
   
 <h3 id="interest">1.3. Interest<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#interest" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
-<p>Cluster where less number of coffee shop present it higher chance is success.</p>
+<p>Need to find in Toronto -> Cluster where less number of coffee shops present it higher chance is success.</p>
 
 <h2 id="datasection">2. Data section<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#data-section" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 
