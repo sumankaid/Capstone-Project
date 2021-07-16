@@ -24,11 +24,13 @@
 
 <h3 id="datasources">2.1. Data Sources<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#datasources" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
-<p>We will use the FourSquare API to collect data about locations of 1.Toronto & NewYork and 2.Popular venues in both cities. First from popular venue we found Toronto people love Coffee Shop, Then we dividing Toronto City into Cluster using k-means. Then determing coffee shops count in each clusters. Finally determining cluster having least no of Coffee Shops</p>
+<p>We will use the FourSquare API to collect data about locations of 1. Top 100 venues Toronto & NewYork and 2.Exploring each venue of Toronto City to find coffee shops near them </p>
 
 <h3 id="datacleaning">2.2. Data Cleaning<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#datacleaning" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
 <p>Less the count higher chance is success.</p>
+      <p>First from popular venue we found Toronto people love Coffee Shop, Then we dividing Toronto City into Cluster using k-means. Then determing coffee shops count in each clusters. Finally determining cluster having least no of Coffee Shops
+      </p>
 
 <h3 id="featureselection">2.3. Feature Selection<a class="anchorjs-link " href="https://github.com/askourik/Coursera_Capstone/index.html#featureselection" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
